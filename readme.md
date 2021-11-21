@@ -1,6 +1,6 @@
-<h3 align="left">
-    <p> The code for crawling the best vietnamese subtitle</p>
-</h3>
+<h2 align="left">
+    <p> The code for crawling the best subtitle based on votes</p>
+</h2>
 
 ## Installation
 
